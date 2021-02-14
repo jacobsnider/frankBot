@@ -1,0 +1,8 @@
+Digital Ocean:
+https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js
+
+
+Coding Train: 
+https://www.youtube.com/watch?v=9P1rB2MY4ZA&ab_channel=TheCodingTrain
+
+https://thecodingtrain.com/learning/bots/discord/05-posting-gifs.html
