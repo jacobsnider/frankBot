@@ -1,3 +1,32 @@
+Project Requirements:
+https://docs.google.com/document/d/1Jtlow4tOOvxB0Vas0rOUueD4cEo6nOn5YN8zvItra6g/edit
+
+
+TO DO:
+=======
+
+*Project is uploaded to your GitHub 5 separate commits
+*Project includes a README file that explains the following:
+    - A one paragraph or longer description of what your project is
+    - Which 3+ features you have included from the below lists to meet the requirements
+    - Any special instructions required for the reviewer to run your project
+
+*Features
+=========
+
+*COMPLETE => Read and parse an external file (such as JSON or CSV) into your application and display some data from that in your app
+
+*COMPLETE => Retrieve data from an external API and display data in your app (such as with fetch() or with AJAX)
+
+?COMPLETE => Create and use a function that accepts two or more values (parameters), calculates or determines a new value based on those inputs, and returns a new value
+
+?COMPLETE => Create an array, dictionary or list, populate it with multiple values, retrieve at least one value, and use or display it in your application
+
+OPTIONAL => Implement a log that records errors, invalid inputs, or other important events and writes them to a text file
+
+========
+
+
 Digital Ocean:
 https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js
 

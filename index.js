@@ -24,7 +24,7 @@ client.on("message", async function(message) {
         console.log(json);
         let index = Math.floor(Math.random() * json.results.length);
         message.channel.send(json.results[index].url);
-        // const timeTaken = Date.now() - message.createdTimestamp;
-        // message.reply(`Don't know how much time I have left. Gonna get real weird with it.`);
+        // return retort;
+        // console.log(message);
     }
 });
