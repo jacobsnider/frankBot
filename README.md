@@ -26,3 +26,18 @@ frankBot is a discord bot that generates gifs of the character Frank Reynolds fr
 ## SPECIAL INSTRUCTIONS
 
 - Any special instructions required for the reviewer to run your project
+
+## NOTES
+
+###### Guides used to help create this project:
+
+###### DIGITAL OCEAN -
+
+[DIGITAL OCEAN](https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js)
+
+###### CODING TRAIN - 
+
+[CODING TRAIN](https://thecodingtrain.com/learning/bots/discord/05-posting-gifs.html)
+
+[CODING TRAIN YOUTUBE](https://www.youtube.com/watch?v=9P1rB2MY4ZA&ab_channel=TheCodingTrain)
+
