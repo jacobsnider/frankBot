@@ -15,8 +15,8 @@ frankBot is a discord bot that generates gifs of the character Frank Reynolds fr
 ###### Create and use a function that accepts two or more values (parameters), calculates or determines a new value based on those inputs, and returns a new value & Create an array, dictionary or list, populate it with multiple values, retrieve at least one value, and use or display it in your application
     
     - COMPLETED: Lines 25-26 of index.js  
-    ```let index = Math.floor(Math.random() * json.results.length);
-       message.channel.send(json.results[index].url);```
+    `let index = Math.floor(Math.random() * json.results.length);
+       message.channel.send(json.results[index].url);`
 
 ## SPECIAL INSTRUCTIONS
 
