@@ -4,12 +4,12 @@ frankBot is a discord bot that generates gifs of the character Frank Reynolds fr
 
 ## FEATURES
 
-###### Read and parse an external file (such as JSON or CSV) into your application and display some data from that in your app
+###### *Read and parse an external file (such as JSON or CSV) into your application and display some data from that in your app
     
     - COMPLETED: Line 23 of index.js 
 `let json = await response.json();`
 
-###### Retrieve data from an external API and display data in your app (such as with fetch() or with AJAX)
+###### *Retrieve data from an external API and display data in your app (such as with fetch() or with AJAX)
     
     - COMPLETED: Lines 21-22 of index.js 
 `let url = 'https://g.tenor.com/v1/search?q=frankreynolds&key=${process.env.TENOR_KEY}';`
