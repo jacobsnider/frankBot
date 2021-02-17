@@ -1,6 +1,7 @@
 ## DESCRIPTION
 
-frankBot is a discord bot that generates gifs of the character Frank Reynolds from the television show *It's Always Sunny In Philadelphia*. Using the command `!frank` the bot will search the Tenor API to find all gifs related to Frank Reynolds and then post one randomly to the channel where the command was received. 
+frankBot is a Discord bot that generates gifs of the character Frank Reynolds from the television show *It's Always Sunny In Philadelphia*. Using the command `!frank` the bot will search the Tenor API to find all gifs related to Frank Reynolds and then post one randomly to the Discord channel where the command was received. 
+
 
 ## FEATURES
 
